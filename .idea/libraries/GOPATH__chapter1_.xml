@@ -1,0 +1,100 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;chapter1&gt;">
+    <CLASSES>
+      <root url="file:///usr/lib/go-1.8/src/database" />
+      <root url="file:///usr/lib/go-1.8/src/unsafe" />
+      <root url="file:///usr/lib/go-1.8/src/log" />
+      <root url="file:///usr/lib/go-1.8/src/vendor" />
+      <root url="file:///usr/lib/go-1.8/src/strings" />
+      <root url="file:///usr/lib/go-1.8/src/os" />
+      <root url="file:///usr/lib/go-1.8/src/debug" />
+      <root url="file:///usr/lib/go-1.8/src/runtime" />
+      <root url="file:///usr/lib/go-1.8/src/go" />
+      <root url="file:///usr/lib/go-1.8/src/builtin" />
+      <root url="file:///usr/lib/go-1.8/src/time" />
+      <root url="file:///usr/lib/go-1.8/src/bytes" />
+      <root url="file:///usr/lib/go-1.8/src/plugin" />
+      <root url="file:///usr/lib/go-1.8/src/container" />
+      <root url="file:///usr/lib/go-1.8/src/fmt" />
+      <root url="file:///usr/lib/go-1.8/src/mime" />
+      <root url="file:///usr/lib/go-1.8/src/html" />
+      <root url="file:///usr/lib/go-1.8/src/context" />
+      <root url="file:///usr/lib/go-1.8/src/reflect" />
+      <root url="file:///usr/lib/go-1.8/src/path" />
+      <root url="file:///usr/lib/go-1.8/src/image" />
+      <root url="file:///usr/lib/go-1.8/src/net" />
+      <root url="file:///usr/lib/go-1.8/src/text" />
+      <root url="file:///usr/lib/go-1.8/src/testing" />
+      <root url="file:///usr/lib/go-1.8/src/io" />
+      <root url="file:///usr/lib/go-1.8/src/compress" />
+      <root url="file:///usr/lib/go-1.8/src/encoding" />
+      <root url="file:///usr/lib/go-1.8/src/sort" />
+      <root url="file:///usr/lib/go-1.8/src/archive" />
+      <root url="file:///usr/lib/go-1.8/src/index" />
+      <root url="file:///usr/lib/go-1.8/src/crypto" />
+      <root url="file:///usr/lib/go-1.8/src/sync" />
+      <root url="file:///usr/lib/go-1.8/src/unicode" />
+      <root url="file:///usr/lib/go-1.8/src/strconv" />
+      <root url="file:///usr/lib/go-1.8/src/cmd" />
+      <root url="file:///usr/lib/go-1.8/src/math" />
+      <root url="file:///usr/lib/go-1.8/src/syscall" />
+      <root url="file:///usr/lib/go-1.8/src/regexp" />
+      <root url="file:///usr/lib/go-1.8/src/errors" />
+      <root url="file:///usr/lib/go-1.8/src/hash" />
+      <root url="file:///usr/lib/go-1.8/src/flag" />
+      <root url="file:///usr/lib/go-1.8/src/expvar" />
+      <root url="file:///usr/lib/go-1.8/src/internal" />
+      <root url="file:///usr/lib/go-1.8/src/bufio" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file:///usr/lib/go-1.8/src/database" />
+      <root url="file:///usr/lib/go-1.8/src/unsafe" />
+      <root url="file:///usr/lib/go-1.8/src/log" />
+      <root url="file:///usr/lib/go-1.8/src/vendor" />
+      <root url="file:///usr/lib/go-1.8/src/strings" />
+      <root url="file:///usr/lib/go-1.8/src/os" />
+      <root url="file:///usr/lib/go-1.8/src/debug" />
+      <root url="file:///usr/lib/go-1.8/src/runtime" />
+      <root url="file:///usr/lib/go-1.8/src/go" />
+      <root url="file:///usr/lib/go-1.8/src/builtin" />
+      <root url="file:///usr/lib/go-1.8/src/time" />
+      <root url="file:///usr/lib/go-1.8/src/bytes" />
+      <root url="file:///usr/lib/go-1.8/src/plugin" />
+      <root url="file:///usr/lib/go-1.8/src/container" />
+      <root url="file:///usr/lib/go-1.8/src/fmt" />
+      <root url="file:///usr/lib/go-1.8/src/mime" />
+      <root url="file:///usr/lib/go-1.8/src/html" />
+      <root url="file:///usr/lib/go-1.8/src/context" />
+      <root url="file:///usr/lib/go-1.8/src/reflect" />
+      <root url="file:///usr/lib/go-1.8/src/path" />
+      <root url="file:///usr/lib/go-1.8/src/image" />
+      <root url="file:///usr/lib/go-1.8/src/net" />
+      <root url="file:///usr/lib/go-1.8/src/text" />
+      <root url="file:///usr/lib/go-1.8/src/testing" />
+      <root url="file:///usr/lib/go-1.8/src/io" />
+      <root url="file:///usr/lib/go-1.8/src/compress" />
+      <root url="file:///usr/lib/go-1.8/src/encoding" />
+      <root url="file:///usr/lib/go-1.8/src/sort" />
+      <root url="file:///usr/lib/go-1.8/src/archive" />
+      <root url="file:///usr/lib/go-1.8/src/index" />
+      <root url="file:///usr/lib/go-1.8/src/crypto" />
+      <root url="file:///usr/lib/go-1.8/src/sync" />
+      <root url="file:///usr/lib/go-1.8/src/unicode" />
+      <root url="file:///usr/lib/go-1.8/src/strconv" />
+      <root url="file:///usr/lib/go-1.8/src/cmd" />
+      <root url="file:///usr/lib/go-1.8/src/math" />
+      <root url="file:///usr/lib/go-1.8/src/syscall" />
+      <root url="file:///usr/lib/go-1.8/src/regexp" />
+      <root url="file:///usr/lib/go-1.8/src/errors" />
+      <root url="file:///usr/lib/go-1.8/src/hash" />
+      <root url="file:///usr/lib/go-1.8/src/flag" />
+      <root url="file:///usr/lib/go-1.8/src/expvar" />
+      <root url="file:///usr/lib/go-1.8/src/internal" />
+      <root url="file:///usr/lib/go-1.8/src/bufio" />
+    </SOURCES>
+    <excluded>
+      <root url="file://$PROJECT_DIR$" />
+    </excluded>
+  </library>
+</component>
